@@ -1,0 +1,8 @@
+D:\source\repos\ARRAY\ARRAY\bin\Debug\ARRAY.exe.config
+D:\source\repos\ARRAY\ARRAY\bin\Debug\ARRAY.exe
+D:\source\repos\ARRAY\ARRAY\bin\Debug\ARRAY.pdb
+D:\source\repos\ARRAY\ARRAY\obj\Debug\ARRAY.csproj.AssemblyReference.cache
+D:\source\repos\ARRAY\ARRAY\obj\Debug\ARRAY.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\ARRAY\ARRAY\obj\Debug\ARRAY.csproj.CoreCompileInputs.cache
+D:\source\repos\ARRAY\ARRAY\obj\Debug\ARRAY.exe
+D:\source\repos\ARRAY\ARRAY\obj\Debug\ARRAY.pdb
