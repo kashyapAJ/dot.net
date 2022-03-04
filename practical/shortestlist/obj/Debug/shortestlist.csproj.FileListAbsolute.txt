@@ -1,0 +1,8 @@
+D:\source\repos\shortestlist\shortestlist\bin\Debug\shortestlist.exe.config
+D:\source\repos\shortestlist\shortestlist\bin\Debug\shortestlist.exe
+D:\source\repos\shortestlist\shortestlist\bin\Debug\shortestlist.pdb
+D:\source\repos\shortestlist\shortestlist\obj\Debug\shortestlist.csproj.AssemblyReference.cache
+D:\source\repos\shortestlist\shortestlist\obj\Debug\shortestlist.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\shortestlist\shortestlist\obj\Debug\shortestlist.csproj.CoreCompileInputs.cache
+D:\source\repos\shortestlist\shortestlist\obj\Debug\shortestlist.exe
+D:\source\repos\shortestlist\shortestlist\obj\Debug\shortestlist.pdb
