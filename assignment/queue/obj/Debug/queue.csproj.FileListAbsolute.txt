@@ -1,0 +1,8 @@
+D:\source\repos\queue\queue\bin\Debug\queue.exe.config
+D:\source\repos\queue\queue\bin\Debug\queue.exe
+D:\source\repos\queue\queue\bin\Debug\queue.pdb
+D:\source\repos\queue\queue\obj\Debug\queue.csproj.AssemblyReference.cache
+D:\source\repos\queue\queue\obj\Debug\queue.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+D:\source\repos\queue\queue\obj\Debug\queue.exe
+D:\source\repos\queue\queue\obj\Debug\queue.pdb
